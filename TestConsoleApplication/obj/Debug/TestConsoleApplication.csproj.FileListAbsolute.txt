@@ -1,0 +1,14 @@
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe.config
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.exe
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\bin\Debug\TestConsoleApplication.pdb
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\bin\Debug\Entities.dll
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\bin\Debug\Entities.pdb
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.csprojAssemblyReference.cache
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.csproj.CopyComplete
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.exe
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\obj\Debug\TestConsoleApplication.pdb
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\bin\Debug\TasksContainer.dll
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\bin\Debug\TasksContainer.pdb
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+D:\Repositorios\2018\C#\TestConsoleApplication\TestConsoleApplication\bin\Debug\Newtonsoft.Json.xml
